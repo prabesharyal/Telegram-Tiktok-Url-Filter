@@ -59,7 +59,7 @@ This bot is make specifically for one purpose. That is to monitor Telegram Group
 ## Deploying Locally
 - Install Python, PIPs using [above methods](#3)
 - Download all files in this repo.
-- Replace variables at the top of `bot.py` file with your ones, removing `os.environ.get('name')` commands.
+- Replace variables at the top of `bot.py` file with your ones, removing `os.environ.get('BOT_TOKEN')` commands.
 
 > Type ***any one*** of the following command on terminal to run bot:
 > - `py bot.py`
