@@ -1,4 +1,4 @@
-# Telegram to Telegram Forwarder
+# Telegram Tiktok Links Remover
 
 A bot to remove Tiktok spam url's or links from your Telegram group using inbuilt REGEX.
 
